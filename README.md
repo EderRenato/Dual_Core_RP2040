@@ -127,7 +127,7 @@ Este projeto utiliza o <code>pico-sdk</code> e <code>cmake</code>.
 1. **Clone o repositório:**
 
 ```bash
-git clone [[URL_DO_SEU_REPOSITORIO]](https://github.com/EderRenato/Dual_Core_RP2040)
+git clone https://github.com/EderRenato/Dual_Core_RP2040
 cd Dual_Core_RP2040
 ```
 
